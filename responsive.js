@@ -62,5 +62,5 @@ function getBotResponse(userResponse) {
     return "Sorry current response unavailable\nLook at documentation for possible prompts";
   }
   
-  // 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
+  
   
